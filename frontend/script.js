@@ -23,7 +23,6 @@ form.addEventListener("submit", async (e) => {
   }
 });
 
-// Função para mostrar resultados bonitos
 function displayResult(data) {
   resultBox.innerHTML = "";
 
