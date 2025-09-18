@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+
+.ipynb_checkpoints/
+
+.DS_Store
+Thumbs.db
+
+breast_resnet18.pt
